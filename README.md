@@ -1,23 +1,12 @@
-# like4likebot
-# ______Getting Free Credits in Like4like Website by likeing tweets in twitter Using python script____
-
-this bot will help you automation getting free credit from like4like website using twitter like
-
-to use this bot yout need to install python and selenium
-
-install python from https://www.python.org
-
-after the python installed successfully
-
-go to commond promp(cmd) in windows or terminal in linux and write: pip install selenium
-
-this will install selenium in your system 
-
-then download or clone the bot into a folder then run it using python
-
-python like4likebot.py
+# LIKE4LIKE-BOT-USING-PYTHON
+# ______Use This Simple Python BOT That Automates like4like.org to Gain Free Credits____
 
 
-or see the full tutorial how to use this bot in exploitchip youtube channel!
-thanks alot!
+#Run Python Code
+
+. Make sure first to download Python https://www.python.org & this text editor Visual Studio Code
+. Install all the necessary libraries using this one command: pip install -r requirements.txt
+. Open this python file like4likebot.py & add twitter_user, twitter_pwd to your personal infos
+. Open your Command Promptand run the script using this simple command: python like4likebot.py
+Enjoy Gaining FREE CREDITS!
 # my youtube link: https://www.youtube.com/c/exploitchip
